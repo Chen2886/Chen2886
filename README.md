@@ -4,7 +4,7 @@
 
 ### Hi, I'm Tony!
 
-I am a full time student at Purdue University, studying computer science. I like to organize Hackathon, play Cities Skyline, Apex and watch F1 in my down time.
+I am a full time student at Purdue University, studying computer science. I like to organize Hackathon, play Cities Skyline, Apex and watch F1 in my down time.<br/>
 I am skilled in Java, C, ReactJs, JavaScript, Swift, SQL, Python, C++, .NET Core, and AngularJS.
 
 
